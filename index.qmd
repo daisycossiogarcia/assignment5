@@ -1,6 +1,9 @@
 ---
 title: "QTM 350: Assignment 05 - Literate Programming with Quarto"
 format: html
+html: 
+self-contained: true 
+pdf: default
 ---
 
 

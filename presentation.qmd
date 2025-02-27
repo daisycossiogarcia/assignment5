@@ -4,6 +4,8 @@ author: "Daisy Cossio Garcia"
 date: "2025-02-26"
 format: 
   revealjs:
+    self-contained: true 
+    embed-resources: true
     theme: solarized
     transition: fade
     slide-number: true
