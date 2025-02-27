@@ -1,5 +1,11 @@
 project:
   title: "assignment5"
+  output-dir: docs 
+
+format:
+  html:
+    output-dir: docs
+  pdf: default
 
 
 
