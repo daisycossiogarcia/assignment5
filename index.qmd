@@ -8,4 +8,4 @@ The World Development Indicators (WDI) dataset provides key global economic and 
 We analyze GDP per capita, life expectancy, and unemployment rates across different countries in 2022.
 
 **HTML Report:** [View Report](docs/assignment05_report.html)
-**Presentation:** [View Presentation](docs/presentation.html)
+**Presentation:** [View Presentation](docs/docs/presentation.html)
